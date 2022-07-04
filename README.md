@@ -12,7 +12,7 @@
   - Number formatting and highhlighting
   - Mouse selection
     - Click and drag
-    - Click to toggle selection
+    - Click to toggle
     - Ctrl + Click for multiple selection
   - Key bindings
     - Number keys
