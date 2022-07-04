@@ -9,13 +9,3 @@ public class Main {
 	}
 	
 }
-
-
-/*
-
-key support: 
-	arrow keys
-	vim-style navigation (hjkl)
-	number keys
-	ctrl + n -> new game
-*/
